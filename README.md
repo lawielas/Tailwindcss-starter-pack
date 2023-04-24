@@ -1,5 +1,5 @@
 # Tailwindcss-starter-pack
-this is the basic code you need to get started with tailwindcss
+This is the basic code you need to get started with tailwindcss
 
 first you need to install the necessary dependencies by running:
 
